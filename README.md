@@ -12,7 +12,7 @@
 
 **[Git 打卡教程 / Git Tutorial](./docs/gitHowTo.md)**
 
-也可以参考 [Git 可视化网站](https://learngitbranching.js.org/?locale=zh_CN) 进行学习。
+也可以参考 [第一课](https://www.bilibili.com/video/BV1GwxNzmEB2/) 和 [Git 可视化网站](https://learngitbranching.js.org/?locale=zh_CN) 进行学习。
 
 ## 🚀 快速开始
 
