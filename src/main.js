@@ -1,4 +1,3 @@
-import './style.css';
 import { initSimulation } from './simulation.js';
 
 document.querySelector('#app').innerHTML = `
