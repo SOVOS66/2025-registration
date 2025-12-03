@@ -1,9 +1,9 @@
 {
-  "name": "你的昵称", 
-  "bio": "这是一句话简介，支持 Emoji 🐧",
-  "tags": ["Linux", "Web", "Rust"], 
+  "name": "level", 
+  "bio": "请输入文本",
+  "tags": ["Linux", "Miku","烤批"], 
   "social": {
-    "github": "your_github_id",
+    "github": "level0_jj",
     "blog": "https://yourblog.com"
   }
 }
